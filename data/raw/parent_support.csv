@@ -1,0 +1,155 @@
+support_id,learner_id,course_id,support_date,observed_pattern,support_area,suggested_home_support,follow_up_date,follow_up_score,support_outcome
+S00001,L002,ELA04,2026-05-25,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-07-23,81.8,Needs Review
+S00002,L004,ELA04,2026-02-04,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-03-14,71.4,Stable
+S00003,L005,MATH01,2026-04-12,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-06,76.9,Improved
+S00004,L005,READ01,2026-04-09,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-04-30,70.0,Stable
+S00005,L005,SCI01,2025-12-07,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-28,69.2,Stable
+S00006,L006,ELA01,2026-06-01,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-21,76.9,Improved
+S00007,L006,MATH01,2026-01-18,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-19,63.6,Stable
+S00008,L006,SCI01,2026-07-22,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-01,68.8,Stable
+S00009,L007,ELA01,2025-12-02,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-06,63.6,Needs Review
+S00010,L007,MATH01,2026-06-06,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-06,75.0,Improved
+S00011,L007,READ01,2025-09-23,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2025-10-27,54.5,Stable
+S00012,L008,ELA02,2026-08-05,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-31,76.5,Improved
+S00013,L008,MATH02,2026-05-13,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-03,80.0,Improved
+S00014,L008,READ01,2025-10-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-10-27,63.6,Needs Review
+S00015,L009,ELA01,2025-12-26,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-18,68.4,Needs Review
+S00016,L009,READ01,2025-12-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-02-01,63.6,Needs Review
+S00017,L009,SCI01,2026-01-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-04-04,70.0,Stable
+S00018,L011,ELA01,2025-09-21,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-25,66.7,Needs Review
+S00019,L011,MATH01,2026-05-14,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-08,76.5,Improved
+S00020,L011,READ01,2026-01-04,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-15,80.0,Improved
+S00021,L012,ELA01,2026-03-23,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-03-25,66.7,Stable
+S00022,L012,MATH01,2025-12-18,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-19,61.5,Stable
+S00023,L012,SCI01,2026-08-21,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-23,63.6,Stable
+S00024,L013,ELA04,2025-11-04,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-13,75.0,Improved
+S00025,L013,MATH04,2026-06-25,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-22,68.8,Stable
+S00026,L013,READ01,2025-10-29,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-30,75.0,Improved
+S00027,L015,ELA01,2025-12-11,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-07,68.8,Needs Review
+S00028,L015,MATH01,2026-06-07,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-05,76.9,Improved
+S00029,L015,SCI01,2025-12-02,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-16,70.6,Stable
+S00030,L016,MATH04,2025-10-09,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-10-23,66.7,Stable
+S00031,L016,READ01,2026-04-25,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-22,71.4,Improved
+S00032,L016,SCI03,2026-02-28,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-23,60.0,Needs Review
+S00033,L017,ELA01,2025-09-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-09-25,69.2,Stable
+S00034,L017,READ01,2025-11-01,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-04,75.0,Improved
+S00035,L018,ELA01,2026-03-17,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-24,70.0,Improved
+S00036,L018,MATH01,2026-04-09,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-16,70.0,Stable
+S00037,L018,SCI01,2025-10-22,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-25,71.4,Improved
+S00038,L020,MATH04,2025-12-22,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-06,71.4,Stable
+S00039,L020,READ01,2026-02-28,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-04-09,71.4,Stable
+S00040,L020,SCI03,2026-02-06,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-02-23,70.6,Improved
+S00041,L021,ELA01,2026-06-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-26,68.4,Stable
+S00042,L021,MATH01,2026-04-25,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-10,68.4,Stable
+S00043,L021,READ01,2025-12-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-12,70.6,Stable
+S00044,L022,ELA01,2025-09-13,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-10-24,64.3,Stable
+S00045,L022,MATH01,2026-02-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-19,58.8,Needs Review
+S00046,L022,SCI01,2025-11-27,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-04,68.4,Improved
+S00047,L023,ELA04,2025-09-24,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2025-10-20,76.9,Stable
+S00048,L024,ELA04,2025-10-07,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-12,69.2,Stable
+S00049,L024,MATH04,2026-05-24,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-10,73.3,Stable
+S00050,L024,READ01,2026-06-26,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-20,76.9,Improved
+S00051,L025,READ01,2026-07-04,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-11,70.0,Stable
+S00052,L027,ELA01,2026-03-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-29,71.4,Stable
+S00053,L027,READ01,2026-01-11,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-11,71.4,Stable
+S00054,L027,SCI01,2026-01-06,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-19,80.0,Improved
+S00055,L029,ELA04,2026-03-01,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-29,68.4,Stable
+S00056,L029,MATH04,2025-09-13,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-09-18,62.5,Improved
+S00057,L029,READ01,2026-05-11,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-19,72.7,Improved
+S00058,L031,MATH04,2026-03-14,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-04-03,80.0,Stable
+S00059,L032,ELA02,2026-02-02,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-04-23,70.6,Stable
+S00060,L032,ELA03,2025-11-20,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-11,80.0,Improved
+S00061,L032,SCI02,2026-03-25,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-02,66.7,Stable
+S00062,L033,SCI03,2026-01-08,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-02-07,70.6,Needs Review
+S00063,L034,MATH04,2025-10-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-18,73.3,Stable
+S00064,L034,READ01,2026-04-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-03,73.7,Improved
+S00065,L034,SCI03,2026-05-26,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-16,76.5,Stable
+S00066,L035,ELA01,2025-09-27,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-10-10,71.4,Stable
+S00067,L035,MATH01,2025-12-09,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-10,70.0,Stable
+S00068,L035,READ01,2025-11-25,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-21,70.0,Stable
+S00069,L037,MATH01,2026-05-02,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-05-23,72.7,Stable
+S00070,L037,SCI01,2026-06-30,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-18,69.2,Stable
+S00071,L039,ELA04,2026-03-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-04-04,75.0,Improved
+S00072,L039,MATH04,2026-05-01,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-01,70.6,Stable
+S00073,L039,READ01,2026-03-21,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-09,75.0,Stable
+S00074,L040,MATH04,2026-06-05,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-12,73.3,Improved
+S00075,L040,READ01,2026-01-12,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-02-03,63.2,Improved
+S00076,L040,SCI03,2026-02-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-10,63.6,Stable
+S00077,L042,ELA04,2026-05-20,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-10,68.4,Stable
+S00078,L042,READ01,2026-03-24,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-26,61.5,Stable
+S00079,L042,SCI03,2025-11-21,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-04,65.0,Stable
+S00080,L043,MATH01,2025-09-14,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-21,58.8,Stable
+S00081,L043,READ01,2026-04-08,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-24,60.0,Stable
+S00082,L043,SCI01,2026-06-28,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-27,63.6,Stable
+S00083,L044,MATH04,2026-07-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-27,64.7,Stable
+S00084,L044,READ01,2026-02-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-26,66.7,Stable
+S00085,L044,SCI03,2026-07-24,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-07,70.6,Stable
+S00086,L045,ELA04,2026-02-03,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-03-09,62.5,Stable
+S00087,L045,MATH04,2026-02-14,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-03-15,63.6,Stable
+S00088,L045,READ01,2026-04-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-12,62.5,Stable
+S00089,L049,SCI01,2025-12-03,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2025-12-11,76.9,Stable
+S00090,L050,ELA02,2025-11-17,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-13,66.7,Stable
+S00091,L050,READ01,2025-09-09,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-12,55.6,Stable
+S00092,L050,SCI02,2026-02-20,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-02-22,64.3,Improved
+S00093,L054,READ01,2026-04-18,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-06-14,80.0,Needs Review
+S00094,L055,MATH04,2026-07-22,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-07-29,82.4,Needs Review
+S00095,L057,ELA04,2026-03-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-20,69.2,Stable
+S00096,L057,MATH04,2026-05-13,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-12,66.7,Stable
+S00097,L057,SCI03,2026-07-05,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-18,71.4,Stable
+S00098,L058,ELA02,2026-07-28,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-30,70.6,Stable
+S00099,L058,MATH02,2025-09-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-06,58.8,Stable
+S00100,L058,MATH03,2025-10-04,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-10-28,66.7,Stable
+S00101,L059,MATH03,2026-06-18,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-08-22,72.7,Needs Review
+S00102,L064,ELA04,2026-05-09,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-05-20,58.3,Stable
+S00103,L064,READ01,2026-04-05,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-08-25,64.7,Stable
+S00104,L064,SCI03,2026-06-15,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-07-15,50.0,Needs Review
+S00105,L065,MATH02,2026-02-13,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-02-15,75.0,Improved
+S00106,L065,READ01,2025-10-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-10-05,72.7,Stable
+S00107,L067,ELA01,2025-10-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-10-28,66.7,Needs Review
+S00108,L067,MATH01,2026-02-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-15,70.6,Stable
+S00109,L067,SCI01,2026-01-15,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-01-22,70.0,Needs Review
+S00110,L069,ELA03,2026-05-14,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-08-25,63.2,Improved
+S00111,L069,MATH03,2025-10-19,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2025-12-20,60.0,Stable
+S00112,L069,SCI02,2025-10-07,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2025-12-05,63.2,Improved
+S00113,L073,ELA02,2025-09-22,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-09-28,66.7,Stable
+S00114,L073,MATH03,2026-02-10,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-16,64.7,Stable
+S00115,L073,READ01,2025-10-25,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-01,63.6,Stable
+S00116,L075,ELA04,2026-02-14,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-06-01,76.9,Stable
+S00117,L077,MATH01,2026-02-16,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-04-11,69.2,Stable
+S00118,L077,READ01,2026-06-08,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-18,66.7,Needs Review
+S00119,L077,SCI01,2026-07-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-05,68.8,Stable
+S00120,L078,ELA04,2026-01-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-20,66.7,Stable
+S00121,L080,ELA04,2026-06-07,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-05,80.0,Improved
+S00122,L080,READ01,2025-11-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-13,72.2,Stable
+S00123,L081,ELA01,2026-04-23,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-12,66.7,Stable
+S00124,L081,MATH01,2026-07-12,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-09,68.8,Improved
+S00125,L081,READ01,2026-04-07,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-03,75.0,Improved
+S00126,L083,ELA04,2026-03-30,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-29,72.7,Improved
+S00127,L083,READ01,2025-11-04,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-21,70.0,Stable
+S00128,L083,SCI03,2026-03-22,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-17,73.3,Stable
+S00129,L085,READ01,2026-06-05,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-08-03,100.0,Improved
+S00130,L086,MATH04,2026-04-16,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-04-18,72.2,Needs Review
+S00131,L086,READ01,2025-11-21,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-27,66.7,Needs Review
+S00132,L088,ELA04,2026-01-19,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-02-22,60.0,Needs Review
+S00133,L088,READ01,2025-11-04,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2025-12-04,66.7,Improved
+S00134,L088,SCI03,2025-10-14,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-15,64.7,Needs Review
+S00135,L089,ELA01,2025-11-12,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-19,65.0,Stable
+S00136,L089,MATH01,2025-11-08,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-02-22,69.2,Stable
+S00137,L089,READ01,2026-03-01,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-03-11,69.2,Needs Review
+S00138,L090,ELA02,2026-05-15,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-27,63.2,Stable
+S00139,L090,ELA03,2026-03-20,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-07-10,53.8,Stable
+S00140,L090,SCI02,2025-11-03,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-04-21,61.5,Stable
+S00141,L092,ELA04,2026-02-17,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-05-15,75.0,Stable
+S00142,L092,MATH04,2026-04-04,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-06-21,75.0,Stable
+S00143,L092,READ01,2025-12-18,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-12-29,70.0,Stable
+S00144,L093,ELA01,2025-09-16,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2025-11-29,69.2,Needs Review
+S00145,L094,MATH01,2025-09-12,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-13,69.2,Stable
+S00146,L094,READ01,2026-01-17,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-01-22,73.3,Stable
+S00147,L094,SCI01,2026-05-16,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-05,76.9,Improved
+S00148,L096,ELA03,2026-07-04,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-08-06,55.6,Stable
+S00149,L096,MATH03,2026-08-15,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-08-25,61.1,Improved
+S00150,L096,SCI02,2026-03-27,Repeated low assessment performance,Topic practice,"Review the relevant topic with short, regular practice sessions.",2026-05-26,55.6,Improved
+S00151,L098,ELA01,2026-03-27,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-06-07,76.9,Stable
+S00152,L098,READ01,2026-05-06,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-07-04,73.3,Stable
+S00153,L098,SCI01,2026-06-14,Developing assessment performance,Skill reinforcement,Provide additional practice and encourage the learner to explain the topic in their own words.,2026-08-30,72.2,Stable
+S00154,L099,READ01,2026-06-05,Declining performance over time,Learning routine,Encourage a consistent learning routine and review challenging topics.,2026-06-29,80.0,Stable

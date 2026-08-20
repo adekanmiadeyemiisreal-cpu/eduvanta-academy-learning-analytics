@@ -1,0 +1,13 @@
+course_id,course_name,subject,grade_level,topic,lesson_count
+MATH01,Number Sense & Operations,Mathematics,K-2,Numbers and Operations,12
+MATH02,Fractions & Decimals,Mathematics,3-5,Fractions and Decimals,14
+MATH03,Geometry & Measurement,Mathematics,3-5,Geometry and Measurement,12
+MATH04,Pre-Algebra Foundations,Mathematics,6-8,Algebraic Thinking,16
+ELA01,Early Reading Foundations,English / Language Arts,K-2,Reading Foundations,12
+ELA02,Reading Comprehension,English / Language Arts,3-5,Reading Comprehension,14
+ELA03,Grammar & Vocabulary,English / Language Arts,3-5,Grammar and Vocabulary,12
+ELA04,Writing & Communication,English / Language Arts,6-8,Writing and Communication,16
+SCI01,Living Things & Life Science,Science,K-2,Life Science,12
+SCI02,Earth & Environmental Science,Science,3-5,Earth and Environment,14
+SCI03,Physical Science,Science,6-8,Physical Science,15
+READ01,Reading Fluency & Vocabulary,Reading,K-8,Fluency and Vocabulary,14
